@@ -1,0 +1,29 @@
+{
+  "name": "node-local-ip-address",
+  "version": "0.0.1",
+  "description": "Returns localhost ip address",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "localhost",
+    "ip",
+    "address",
+    "inet",
+    "IPv4"
+  ],
+  "author": "Lennon Jesus <lennon.jesus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennonjesus/node-local-ip-address.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lennonjesus/node-local-ip-address/issues"
+  },
+  "homepage": "https://github.com/lennonjesus/node-local-ip-address#readme"
+}
