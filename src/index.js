@@ -11,7 +11,6 @@ module.exports = () => {
     ifaces[dev].forEach((details) => {
       if (details.family == 'IPv4') {
         lookupIpAddress = details.address;
-        break;
       }
     });
   }

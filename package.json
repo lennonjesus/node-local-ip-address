@@ -1,6 +1,6 @@
 {
   "name": "node-local-ip-address",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Returns localhost ip address",
   "main": "src/index.js",
   "scripts": {
