@@ -1,5 +1,9 @@
 # A very simple way to get local ip address from localhost with Node JS.
 
+# DEPRECATED
+
+Please, use [ip](https://github.com/indutny/node-ip).
+
 ## Install
 
 ```
